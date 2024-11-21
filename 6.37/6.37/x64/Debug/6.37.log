@@ -1,0 +1,4 @@
+﻿  main.c
+D:\6.37\6.37\main.c(15,9): warning C4047: '=': 'int *' 與 'int (*)[100]' 間接取值的層級不同
+D:\6.37\6.37\main.c(16,15): warning C4013: 'maximum' 未定義; 假設 extern 傳回整數
+  6.37.vcxproj -> D:\6.37\x64\Debug\6.37.exe
